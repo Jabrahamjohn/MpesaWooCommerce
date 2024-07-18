@@ -71,6 +71,7 @@ class Menu
             </article>
 
             <h3>Development & Contribution</h3>
+            <!--
             <article>
                 <p>
                     To help improve and support our effort to make such solutions as this one, you can start by contributing
@@ -83,11 +84,12 @@ class Menu
                     <li><a href="https://github.com/osenco/osen-presta-mpesa">M-Pesa For PrestaShop</a></li>
                 </div>
             </article>
+    -->
 
             <h3>Contact</h3>
-            <h4>Get in touch with us either via email (<a href="mailto:hi@osen.co.ke">hi@osen.co.ke</a>) or via phone(<a href="tel:+254705459494">+254705459494</a>)</h4>
+            <h4>Get in touch with us either via email (<a href="mailto:ajnetworksenya@gmail.com">AJNetworks</a>) or via phone(<a href="tel:+254758238617">+254758238617</a>)</h4>
 
-            <img src="<?php echo plugins_url("osen-wc-mpesa/assets/wcmpesa.png"); ?>" width="100px">
+            <img src="<?php echo plugins_url("MpesaWooCommerce/assets/wcmpesa.png"); ?>" width="100px">
         </div>
     <?php
     }
@@ -195,10 +197,10 @@ class Menu
 
             <h3>Contact</h3>
             <h4>
-                Incase you are unable to do this on your own, you can get in touch with us either via email (<a href="mailto:hi@osen.co.ke">hi@osen.co.ke</a>) or via phone(<a href="tel:+254705459494">+254705459494</a>)
+                Incase you are unable to do this on your own, you can get in touch with us either via email (<a href="mailto:ajnetworkskenya@gmail.com">AJnetworks</a>) or via phone(<a href="tel:+254758238617">+254758238617</a>)
             </h4>
 
-            <img src="<?php echo plugins_url("osen-wc-mpesa/assets/wcmpesa.png"); ?>" width="100px">
+            <img src="<?php echo plugins_url("MpesaWooCommerce/assets/wcmpesa.png"); ?>" width="100px">
         </div>
 <?php
     }
